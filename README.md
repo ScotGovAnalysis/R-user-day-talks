@@ -14,9 +14,9 @@ A repository for materials from talks given at Scottish Public Sector R-user day
 ## 2022-10-05
 * [Accessibility in plots – moving from Plotly towards Highcharts](https://github.com/DataScienceScotland/R-user-day-talks/blob/main/2022-10-05/NRS%20-%20Highcharter%20presentation%20-%20R%20User%20day.pptx)
 * [School Information Dashboards RAP Project](https://github.com/DataScienceScotland/R-user-day-talks/blob/main/2022-10-05/School%20Information%20Dashboards%20Presentation.pptx)
-* [Shiny Server announcement]
-* Working with contractors to develop a shiny dashboard
-* Good practise in developing interactive content
+* [Shiny Server announcement](https://github.com/DataScienceScotland/R-user-day-talks/blob/main/2022-10-05/SPACe%20-%20Tranche%202%20-%20Analytical%20Workbench%20Project%20-%20Communications%20-%20R%20User%20Day%20R%20Shiny%20Dashboard%20Flash%20Talk.pptx)
+* [Working with contractors to develop a shiny dashboard](https://github.com/DataScienceScotland/R-user-day-talks/blob/main/2022-10-05/Working%20with%20a%20contractor%20to%20deliver%20a%20dashboard.pptx)
+* [Good practise in developing interactive content](https://github.com/DataScienceScotland/R-user-day-talks/blob/main/2022-10-05/Interactivity%20presentation%20-%20Scot%20Gov%20event%20-%20Oct%2022%20PB%20ONS.pptx)
 * [a11ytables R package](https://github.com/DataScienceScotland/R-user-day-talks/blob/main/2022-10-05/2022-10-05_sg-r-user-day_matt-dray.pdf)
-* Developing a Shiny App from scratch with very little background in R
-* R Packages
+* [Developing a Shiny App from scratch with very little background in R](https://github.com/DataScienceScotland/R-user-day-talks/blob/main/2022-10-05/R%20Users%20Shiny.pptx)
+* [R Packages](https://github.com/DataScienceScotland/R-user-day-talks/blob/main/2022-10-05/R_packages_talk.pdf) and [code](https://github.com/DataScienceScotland/R-user-day-talks/blob/main/2022-10-05/create_Rpackage_example.R)
