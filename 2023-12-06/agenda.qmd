@@ -46,58 +46,58 @@ We will also make presentation slides available on this page after the event.
 
 ### Moving a SAS project to R 
 
-Speaker: Jay Ware
+Speaker: Jay Ware, Scottish Government
 
 Planning and managing the migration to R of a large SAS project used in producing Supply-Use Tables.
 
 ### Say goodbye to semi-colons: moving the June Agricultural Census from SAS to R
 
-Speaker: Lucy Nevard
+Speaker: Lucy Nevard, Scottish Government
 
 The process (still ongoing) of translating the complex legacy SAS code for the June Agricultural Census into R, including the improvements made, the many challenges and the lessons learned.
 
 ### Road casualties map
 
-Speaker: Ivet Gazova
+Speaker: Ivet Gazova, Transport Scotland
 
 Creating a reproducible analytical pipeline using Leaflet to produce a map showing where these collisions happen, with filtering based on the mode of the user.
 
 ### Automating disclosure control in R
 
-Speakers: Eoin Ó Laighléis and Laura Stott
+Speakers: Eoin Ó Laighléis and Laura Stott, Scottish Government
 
 A demo of the automatic suppression code used in everyday work. Looking for suggestions to improve this, package it and make it available to the wider analytical profession.
 
 ### Improving an existing data collection using R
 
-Speaker: Anouska Pandya
+Speaker: Anouska Pandya, Scottish Government
 
 Using R to automate components of an existing, manual data collection and publication process to improve the data quality and timeliness of results, while making the process less resource-intensive. 
 
 ### Five practical ways to improve your R project
 
-Speaker: Alice Byers
+Speaker: Alice Byers, Scottish Government
 
 Do you find it difficult knowing where to start to improve your R code? This talk will cover five practical examples of improvements you can make to your R project, or things to consider when writing new R code.
 
 ### Incorporating sgplot in the development of Official Statistics publications 
 
-Speaker: Joshua Bird
+Speaker: Joshua Bird, Scottish Government
 
-A case study to transform a standard government report into an accessible Official Statistics publication. Using sgplot, a new R package which extends the language of ggplot2 for Scottish Government, this ensured it adhered to vis best practice.
+A case study to transform a standard government report into an accessible Official Statistics publication. Using [sgplot](https://datasciencescotland.github.io/sgplot/), a new R package which extends the language of ggplot2 for Scottish Government, this ensured it adhered to vis best practice.
 
 ###	Update on analytical workbench and ADM systems
 
-Speaker: Dave Grzybowski
+Speaker: Dave Grzybowski, Scottish Government
 
 ### Creating reactive charts with Highcharter in R
 
-Speaker: Sam Hunter
+Speaker: Sam Hunter, National Records of Scotland
 
-See how Scotland’s Census used the Highcharts to produce accessible and reactive charts for the outputs website.
+See how Scotland’s Census used [Highcharts](https://www.highcharts.com/) to produce accessible and reactive charts for the outputs website.
 
 ###	R Shiny: Disease prevalence in Primary Care
 
 Speaker: Julia Moeller, Public Health Scotland
 
-The process of building a Shiny dashboard showing disease prevalence in general practices in Scotland. A pilot approach to dashboard building in the public sector
+The process of building a Shiny dashboard showing disease prevalence in general practices in Scotland. A pilot approach to dashboard building in the public sector.
