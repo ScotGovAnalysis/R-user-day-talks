@@ -1,0 +1,103 @@
+---
+title: "Scottish Government R User Day 2023"
+subtitle: "Wednesday, 6 December 2023"
+format: 
+  html:
+    page-layout: full
+    embed-resources: true
+---
+
+<br>
+[![](images/SG-logo.jpg){height=50 fig-alt="Scottish Government"}](https://www.gov.scot/) &emsp; [![](images/Rlogo.svg){height=50 fig-alt="R Project"}](https://www.r-project.org/)
+
+<br>
+
+The R User Day that will take place on Wednesday, 6 December 2023. The event will be online only and is open to public sector analysts.
+
+To attend the event, please sign up using the [registration form](https://events.teams.microsoft.com/event/5578e954-0d99-4669-9262-ca9c2da77637@0ef77447-1083-4dec-b89f-27c765076840). Please make sure to register using your work email address. 
+
+We intend to record talks with a view to making them available on Pathways so that they are available for future use. We will issue a privacy policy statement to those who sign up in advance.  
+
+We will also make presentation slides available on this page after the event.
+
+
+## Agenda
+
+| Time | Title | Speaker |
+| -- | ---- | --- |
+| 10:00 – 10:10 | Opening remarks | |
+| 10:10 – 10:30 | Introduction | Ally McAlpine, Chief Statistician |
+| 10:30 – 10:50 | [Moving a SAS project to R](#moving-a-sas-project-to-r) | Jay Ware |
+| 10:50 – 11:10 | [Say goodbye to semi-colons: moving the June Agricultural Census from SAS to R](#say-goodbye-to-semi-colons-moving-the-june-agricultural-census-from-sas-to-r) | Lucy Nevard |
+| 11:10 – 11:20 | Break | |
+| 11:20 – 11:40 | [Road casualties map](#road-casualties-map) | Ivet Gazova |
+| 11:40 – 12:00 | [Automating disclosure control in R](#automating-disclosure-control-in-r) | Eoin Ó Laighléis and Laura Stott
+| 12:00 – 12:20 | [Improving an existing data collection using R](#improving-an-existing-data-collection-using-r) | Anouska Pandya |
+| 12:20 – 13:10 | Lunch | |
+| 13:10 – 13:30 | [Five practical ways to improve your R project](#five-practical-ways-to-improve-your-r-project) | Alice Byers |
+| 13:30 – 13:50 | [Incorporating sgplot in the development of Official Statistics publications](#incorporating-sgplot-in-the-development-of-official-statistics-publications) | Joshua Bird |
+| 13:50 – 14:10 | [Update on analytical workbench and ADM systems](#update-on-analytical-workbench-and-adm-systems) | TBC |
+| 14:10 - 14:30 | [Creating reactive charts with Highcharter in R](#creating-reactive-charts-with-highcharter-in-r) | Sam Hunter |
+| 14:30 – 14:50 | [R Shiny: Disease prevalence in Primary Care](#r-shiny-disease-prevalence-in-primary-care) | Julia Moeller |
+| 14:50 – 15:00 | Closing remarks | |
+
+
+## Presentations
+
+### Moving a SAS project to R 
+
+Speaker: Jay Ware, Scottish Government
+
+Planning and managing the migration to R of a large SAS project used in producing Supply-Use Tables.
+
+### Say goodbye to semi-colons: moving the June Agricultural Census from SAS to R
+
+Speaker: Lucy Nevard, Scottish Government
+
+The process (still ongoing) of translating the complex legacy SAS code for the June Agricultural Census into R, including the improvements made, the many challenges and the lessons learned.
+
+### Road casualties map
+
+Speaker: Ivet Gazova, Transport Scotland
+
+Creating a reproducible analytical pipeline using Leaflet to produce a map showing where these collisions happen, with filtering based on the mode of the user.
+
+### Automating disclosure control in R
+
+Speakers: Eoin Ó Laighléis and Laura Stott, Scottish Government
+
+A demo of the automatic suppression code used in everyday work. Looking for suggestions to improve this, package it and make it available to the wider analytical profession.
+
+### Improving an existing data collection using R
+
+Speaker: Anouska Pandya, Scottish Government
+
+Using R to automate components of an existing, manual data collection and publication process to improve the data quality and timeliness of results, while making the process less resource-intensive. 
+
+### Five practical ways to improve your R project
+
+Speaker: Alice Byers, Scottish Government
+
+Do you find it difficult knowing where to start to improve your R code? This talk will cover five practical examples of improvements you can make to your R project, or things to consider when writing new R code.
+
+### Incorporating sgplot in the development of Official Statistics publications 
+
+Speaker: Joshua Bird, Scottish Government
+
+A case study to transform a standard government report into an accessible Official Statistics publication. Using [sgplot](https://datasciencescotland.github.io/sgplot/), a new R package which extends the language of ggplot2 for Scottish Government, this ensured it adhered to vis best practice.
+
+###	Update on analytical workbench and ADM systems
+
+Speaker: TBC
+
+### Creating reactive charts with Highcharter in R
+
+Speaker: Sam Hunter, National Records of Scotland
+
+See how Scotland’s Census used [Highcharts](https://www.highcharts.com/) to produce accessible and reactive charts for the outputs website.
+
+###	R Shiny: Disease prevalence in Primary Care
+
+Speaker: Julia Moeller, Public Health Scotland
+
+The process of building a Shiny dashboard showing disease prevalence in general practices in Scotland. A pilot approach to dashboard building in the public sector.
