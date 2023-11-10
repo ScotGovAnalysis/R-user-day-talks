@@ -2,7 +2,7 @@
 
 A repository for materials from talks given at Scottish Government R User days.
 
-# 2023-12-06
+## 2023-12-06
 
 [Agenda and presentations](https://datasciencescotland.github.io/R-user-day-talks/2023-12-06/agenda.html)
 
