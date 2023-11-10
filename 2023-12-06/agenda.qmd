@@ -12,7 +12,7 @@ format:
 
 <br>
 
-The R User Day that will take place on Wednesday, 6 December 2023. The event will be online only and is open to public sector analysts.
+The R User Day will take place on Wednesday, 6 December 2023. The event will be online only and is open to public sector analysts.
 
 To attend the event, please sign up using the [registration form](https://events.teams.microsoft.com/event/5578e954-0d99-4669-9262-ca9c2da77637@0ef77447-1083-4dec-b89f-27c765076840). Please make sure to register using your work email address. 
 
