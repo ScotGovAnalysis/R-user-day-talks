@@ -38,7 +38,7 @@ Please [email the organisers](mailto:alice.byers@gov.scot;Gerard.Scullion@gov.sc
 | 12:20 – 13:10 | Lunch | |
 | 13:10 – 13:30 | [Five practical ways to improve your R project](#five-practical-ways-to-improve-your-r-project) | Alice Byers |
 | 13:30 – 13:50 | [Incorporating sgplot in the development of Official Statistics publications](#incorporating-sgplot-in-the-development-of-official-statistics-publications) | Joshua Bird |
-| 13:50 – 14:10 | [Update on analytical workbench and ADM systems](#update-on-analytical-workbench-and-adm-systems) | TBC |
+| 13:50 – 14:10 | [Update on analytical workbench and ADM systems](#update-on-analytical-workbench-and-adm-systems) | Sandy Smith |
 | 14:10 - 14:30 | [Creating reactive charts with Highcharter in R](#creating-reactive-charts-with-highcharter-in-r) | Sam Hunter |
 | 14:30 – 14:50 | [R Shiny: Disease prevalence in Primary Care](#r-shiny-disease-prevalence-in-primary-care) | Julia Moeller |
 | 14:50 – 15:00 | Closing remarks | |
@@ -90,7 +90,7 @@ A case study to transform a standard government report into an accessible Offici
 
 ###	Update on analytical workbench and ADM systems
 
-Speaker: TBC
+Speaker: Sandy Smith, Scottish Government
 
 ### Creating reactive charts with Highcharter in R
 
