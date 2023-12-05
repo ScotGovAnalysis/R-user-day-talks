@@ -16,7 +16,27 @@ The R User Day will take place on Wednesday, 6 December 2023. The event will be 
 
 To attend the event, please sign up using the [registration form](https://events.teams.microsoft.com/event/5578e954-0d99-4669-9262-ca9c2da77637@0ef77447-1083-4dec-b89f-27c765076840). Please make sure to register using your work email address. 
 
-We intend to record talks with a view to making them available on Pathways so that they are available for future use. We will issue a privacy policy statement to those who sign up in advance.  
+We intend to record talks with a view to making them available on Pathways so that they are available for future use. Participants should read the following privacy notice before attending the event (click the blue banner to expand).
+
+::: {.callout-note collapse="true"}
+## Recording Privacy Notice
+
+By joining the online event, the participant agrees to the following terms and conditions:
+
+* The event is being run by the Office of the Chief Statistician and Data Division in the Scottish Government. The event will highlight good practice and promote the use of R open source software with analysts in the Scottish Government and the Scottish public sector.
+
+* The presentation part of this event will be recorded so that those who cannot attend it live, can watch it later or attendees can revisit. The recording will be stopped before the Q&A session at the end of each presentation takes place. The presenter will inform attendees once the recording has stopped.
+
+* The recording will be held securely by the Office of Chief Statistician and Data Division and is processed under the lawful basis – legitimate interest. These will be excellent reference materials for analysts who would like to refer back to the content of the talks and the recordings will also be of use to those who were unable to attend the events. **If you do not wish to be recorded during the presentation, we recommend that your camera and microphone are switched off.**
+
+* Once the recording has stopped, the event will open to questions where participants can freely ask questions via discussion or within the chat function. This part of the event will not be recorded.
+
+* We intend to host the recordings on Pathways and may share it with other public sector organisations.
+
+* We will retain the recordings for 5 years. These recordings will be of great interest to  analysts in the Scottish Government for the foreseeable future.
+
+* If you have any concerns about the information within this privacy notice, please contact [Gerry Scullion](mailto:gerard.scullion@gov.scot).
+:::
 
 We will also make presentation slides available on this page after the event.
 
