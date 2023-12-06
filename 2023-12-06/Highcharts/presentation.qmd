@@ -137,13 +137,14 @@ plots[["pop_pyr_1921"]]
 Horizontal axis is positive in both directions.
 
 # What's next?
+
 What other Highcharts features are we learning to use?
 
 ## Sonification
 
 Sonification doesn't work inside this slideshow but does in standalone HTML knitted from R markdown.
 
-[SONIFICATION DEMO](`r paste0(getwd(),"/sonification_demo.html")`)
+[SONIFICATION DEMO](`r paste0(here::here(), "2023-12-06/Highcharts/sonification_demo.html")`)
 
 # Pros and Cons
 
