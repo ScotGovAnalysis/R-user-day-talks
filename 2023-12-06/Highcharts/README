@@ -1,0 +1,11 @@
+HIGHCHARTS PRESENTATION SOURCE FILES
+
+This file will guide you to reproduce the presentation.
+
+1. knit sonification_demo.Rmd
+
+2. knit presentation.qmd
+
+
+The sonification demo link in the slides will not work 
+unless the files have been created in the same directory.
