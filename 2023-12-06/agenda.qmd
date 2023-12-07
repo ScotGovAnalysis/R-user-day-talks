@@ -5,6 +5,7 @@ format:
   html:
     page-layout: full
     embed-resources: true
+    theme: [default, styles.scss]
 ---
 
 <br>
@@ -38,7 +39,7 @@ By joining the online event, the participant agrees to the following terms and c
 * If you have any concerns about the information within this privacy notice, please contact [Gerry Scullion](mailto:gerard.scullion@gov.scot).
 :::
 
-We will also make presentation slides available on this page after the event.
+Presentation slides and materials are available in the [presentations section](#presentations) of this page.
 
 Please [email the organisers](mailto:alice.byers@gov.scot;Gerard.Scullion@gov.scot;Jennifer.Ferguson@gov.scot?subject=R%20User%20Day) if you have any questions or have any accessibility requirements.
 
@@ -71,11 +72,15 @@ Speaker: Jay Ware, Scottish Government
 
 Planning and managing the migration to R of a large SAS project used in producing Supply-Use Tables.
 
+[Slides](https://github.com/DataScienceScotland/R-user-day-talks/raw/main/2023-12-06/slides/jay-ware_moving-from-SAS-to-R.pptx){.download}
+
 ### Say goodbye to semi-colons: moving the June Agricultural Census from SAS to R
 
 Speaker: Lucy Nevard, Scottish Government
 
 The process (still ongoing) of translating the complex legacy SAS code for the June Agricultural Census into R, including the improvements made, the many challenges and the lessons learned.
+
+[Slides](https://github.com/DataScienceScotland/R-user-day-talks/raw/main/2023-12-06/slides/lucy-nevard_agricultural-census.pptx){.download}
 
 ### Road casualties map
 
@@ -83,11 +88,15 @@ Speaker: Ivet Gazova, Transport Scotland
 
 Creating a reproducible analytical pipeline using Leaflet to produce a map showing where these collisions happen, with filtering based on the mode of the user.
 
+[Slides](https://github.com/DataScienceScotland/R-user-day-talks/raw/main/2023-12-06/slides/ivet-gazova_road-casualties-map.pptx){.download}
+
 ### Automating disclosure control in R
 
 Speakers: Eoin Ó Laighléis and Laura Stott, Scottish Government
 
 A demo of the automatic suppression code used in everyday work. Looking for suggestions to improve this, package it and make it available to the wider analytical profession.
+
+[Code](https://github.com/DataScienceScotland/R-user-day-talks/tree/main/2023-12-06/automated-disclosure-control){.external target="_blank"}
 
 ### Five practical ways to improve your R project
 
@@ -95,15 +104,21 @@ Speaker: Alice Byers, Scottish Government
 
 Do you find it difficult knowing where to start to improve your R code? This talk will cover five practical examples of improvements you can make to your R project, or things to consider when writing new R code.
 
+[Slides](../2023-12-06/slides/alice-byers_5-ways-to-improve.html){.external target="_blank"}
+
 ### Incorporating sgplot in the development of Official Statistics publications 
 
 Speaker: Joshua Bird, Scottish Government
 
 A case study to transform a standard government report into an accessible Official Statistics publication. Using [sgplot](https://datasciencescotland.github.io/sgplot/), a new R package which extends the language of ggplot2 for Scottish Government, this ensured it adhered to vis best practice.
 
+[Slides](https://github.com/DataScienceScotland/R-user-day-talks/raw/main/2023-12-06/slides/joshua-bird_sgplot.pptx){.download}
+
 ###	Update on analytical workbench and ADM systems
 
 Speaker: Sandy Smith, Scottish Government
+
+[Slides](https://github.com/DataScienceScotland/R-user-day-talks/raw/main/2023-12-06/slides/sandy-smith_data-platforms.pptx){.download}
 
 ### Creating reactive charts with Highcharter in R
 
@@ -111,8 +126,12 @@ Speaker: Sam Hunter, National Records of Scotland
 
 See how Scotland’s Census used [Highcharts](https://www.highcharts.com/) to produce accessible and reactive charts for the outputs website.
 
+Slides will be added shortly.
+
 ###	R Shiny: Disease prevalence in Primary Care
 
 Speaker: Julia Moeller, Public Health Scotland
 
 The process of building a Shiny dashboard showing disease prevalence in general practices in Scotland. A pilot approach to dashboard building in the public sector.
+
+[Slides](https://github.com/DataScienceScotland/R-user-day-talks/raw/main/2023-12-06/slides/julia-moeller_R-shiny-disease-prevalence.pptx){.download}
