@@ -126,7 +126,7 @@ Speaker: Sam Hunter, National Records of Scotland
 
 See how Scotland’s Census used [Highcharts](https://www.highcharts.com/) to produce accessible and reactive charts for the outputs website.
 
-Slides will be added shortly.
+[Slides](../2023-12-06/Highcharts/presentation.html){.external target="_blank"}
 
 ###	R Shiny: Disease prevalence in Primary Care
 
