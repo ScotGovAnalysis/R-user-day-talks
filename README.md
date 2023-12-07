@@ -1,5 +1,12 @@
 # Scottish Government R User Days
 
+<br>
+
+[![](2023-12-06/images/SG-logo.jpg){height="50" alt="Scottish Government"}](https://www.gov.scot/) &emsp;
+[![](2023-12-06/images/Rlogo.svg){height=50 alt="R Project"}](https://www.r-project.org/)
+
+<br>
+
 A repository for materials from talks given at Scottish Government R User days.
 
 ## 2023-12-06
