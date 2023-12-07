@@ -31,7 +31,7 @@ A bit of background information to raise awareness and share our learning from u
 
 ## Reproducibility
 
-### Source code for producing these slides is available on [github](https://github.com/DataScienceScotland/R-user-day-talks/tree/main/2023-12-06).
+### Source code for producing these slides is available on [github](https://github.com/DataScienceScotland/R-user-day-talks/tree/main/2023-12-06/Highcharts).
 
 ### Contact me: [sam.hunter\@nrscotland.gov.uk](mailto:sam.hunter@nrscotland.gov.uk)
 
@@ -203,7 +203,7 @@ Further reading in the R Users' [sharepoint docs](https://scotsconnect.sharepoin
 
 ## Reproducibility
 
-### Code for producing these slides is available on [github](https://github.com/DataScienceScotland/R-user-day-talks/tree/main/2023-12-06).
+### Code for producing these slides is available on [github](https://github.com/DataScienceScotland/R-user-day-talks/tree/main/2023-12-06/Highcharts).
 
 ### Contact me: [sam.hunter\@nrscotland.gov.uk](mailto:sam.hunter@nrscotland.gov.uk)
 
