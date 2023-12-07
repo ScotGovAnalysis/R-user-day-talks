@@ -5,7 +5,6 @@ format: revealjs
 editor: visual
 ---
 
-
 ```{r setup, include=FALSE}
 
 # this handy little expression sources each script in the "scripts" folder
@@ -34,7 +33,7 @@ A bit of background information to raise awareness and share our learning from u
 
 ### Source code for producing these slides is available on [github](https://github.com/DataScienceScotland/R-user-day-talks/tree/main/2023-12-06).
 
-### Contact me: [sam.hunter@nrscotland.gov.uk](mailto:sam.hunter@nrscotland.gov.uk)
+### Contact me: [sam.hunter\@nrscotland.gov.uk](mailto:sam.hunter@nrscotland.gov.uk)
 
 # Highcharts
 
@@ -84,7 +83,6 @@ Well if it's so good, where have highcharts been used in publications?
 
 -   [Time Use in Scotland](https://data.gov.scot/time-use-scotland/time-use-2023/sex.html#introduction)
 
-
 # What have we learned about producing highcharts?
 
 ## Straightforward to build and edit
@@ -93,7 +91,7 @@ Well if it's so good, where have highcharts been used in publications?
 
 -   Good [documentation](https://www.highcharts.com/docs/index), [resources](https://jkunst.com/highcharter/) and [demos](https://dantonnoriega.github.io/ultinomics.org/posts/2017-04-05-highcharter-explainer.html).
 
--   A little JavaScript goes a long way. 
+-   A little JavaScript goes a long way.
 
 -   Great with RAPs for reports and publications.
 
@@ -106,7 +104,6 @@ Well if it's so good, where have highcharts been used in publications?
 plots[["POPULATION_ageing"]]
 
 ```
-
 
 ## [Bar charts with annotation](https://www.scotlandscensus.gov.uk/2022-results/scotland-s-census-2022-rounded-population-estimates/#section2)
 
@@ -144,7 +141,7 @@ What other Highcharts features are we learning to use?
 
 Sonification doesn't work inside this slideshow but does in standalone HTML knitted from R markdown.
 
-[SONIFICATION DEMO]("../2023-12-06/Highcharts/sonification_demo.html")
+[SONIFICATION DEMO](../2023-12-06/Highcharts/sonification_demo.html)
 
 # Pros and Cons
 
@@ -162,7 +159,7 @@ Sonification doesn't work inside this slideshow but does in standalone HTML knit
 
 -   Looks professional.
 
-## Cons 
+## Cons
 
 -   Paid license for publishing.
 
@@ -208,6 +205,6 @@ Further reading in the R Users' [sharepoint docs](https://scotsconnect.sharepoin
 
 ### Code for producing these slides is available on [github](https://github.com/DataScienceScotland/R-user-day-talks/tree/main/2023-12-06).
 
-### Contact me: [sam.hunter@nrscotland.gov.uk](mailto:sam.hunter@nrscotland.gov.uk)
+### Contact me: [sam.hunter\@nrscotland.gov.uk](mailto:sam.hunter@nrscotland.gov.uk)
 
 # Any Questions?
