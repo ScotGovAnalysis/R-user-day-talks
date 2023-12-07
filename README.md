@@ -1,4 +1,4 @@
-# R-user-day-talks
+# Scottish Government R User Days
 
 A repository for materials from talks given at Scottish Government R User days.
 
