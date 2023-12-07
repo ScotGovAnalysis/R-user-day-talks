@@ -1,0 +1,213 @@
+---
+title: "Highcharts : R User Day"
+author: "Sam Hunter - NRS"
+format: revealjs
+editor: visual
+---
+
+
+```{r setup, include=FALSE}
+
+# this handy little expression sources each script in the "scripts" folder
+# if you're looking for code to make the highcharts check there.
+for (script in list.files("scripts", full.names = TRUE)) {
+  source(script, local = T)
+}
+
+```
+
+## This presentation on Highcharts
+
+A bit of background information to raise awareness and share our learning from using Highcharts in publications.
+
+-   What is it?
+
+-   Why use it?
+
+-   Where has it been used?
+
+-   What have we learned?
+
+-   What are we working on?
+
+## Reproducibility
+
+### Source code for producing these slides is available on [github](https://github.com/DataScienceScotland/R-user-day-talks/tree/main/2023-12-06).
+
+### Contact me: [sam.hunter@nrscotland.gov.uk](mailto:sam.hunter@nrscotland.gov.uk)
+
+# Highcharts
+
+## Highcharts
+
+What is it?
+
+-   Highcharts is a software library for data visualisation, written in pure JavaScript.
+
+-   It is free for personal/non-commercial uses and paid for commercial applications.
+
+-   The Scottish Government and NRS have licenses for publications.
+
+## Highcharts
+
+Why use it to make charts with?
+
+-   Meant for HTML. To be viewed in a browser.
+
+-   Lightweight. Charts are rendered in the page by the browser as vector graphics.
+
+-   Interactive/ reactive. Charts change based on user interaction.
+
+-   [Accessibility](https://www.highcharts.com/blog/posts/a11y/). Works with screen readers, charts can be sonified for visually impaired.
+
+-   Customisation. Fine control over features; Colours, Fonts, Patterns, Download images/ data.
+
+## R to HTML and JavaScript
+
+But this is the R User Day... Why are you telling me about JS?
+
+-   Works great embedded in HTML from R markdown and R Shiny.
+
+-   The R package `highcharter` enables building charts entirely in R.
+
+-   We don't need to know any JS to go from data to visualisation and still get all the benefits.
+
+## Publications
+
+Well if it's so good, where have highcharts been used in publications?
+
+-   [Census outputs](https://www.scotlandscensus.gov.uk/2022-results/scotland-s-census-2022-rounded-population-estimates/)
+
+-   [Registrar General's Annual Review](https://www.nrscotland.gov.uk/files/statistics/rgar/2022/scotlands-population-2022.html)
+
+-   [Poverty Statistics](https://data.gov.scot/poverty/)
+
+-   [Time Use in Scotland](https://data.gov.scot/time-use-scotland/time-use-2023/sex.html#introduction)
+
+
+# What have we learned about producing highcharts?
+
+## Straightforward to build and edit
+
+-   Similar syntax to ggplot.
+
+-   Good [documentation](https://www.highcharts.com/docs/index), [resources](https://jkunst.com/highcharter/) and [demos](https://dantonnoriega.github.io/ultinomics.org/posts/2017-04-05-highcharter-explainer.html).
+
+-   A little JavaScript goes a long way. 
+
+-   Great with RAPs for reports and publications.
+
+# What Highcharts features have we used?
+
+## [Line charts with tooltips](https://www.scotlandscensus.gov.uk/2022-results/scotland-s-census-2022-rounded-population-estimates/#section4)
+
+```{r, echo=FALSE}
+# 
+plots[["POPULATION_ageing"]]
+
+```
+
+
+## [Bar charts with annotation](https://www.scotlandscensus.gov.uk/2022-results/scotland-s-census-2022-rounded-population-estimates/#section2)
+
+```{r, echo=FALSE}
+# 
+plots[["census_records"]]
+
+```
+
+## [Choropleth Maps](https://www.scotlandscensus.gov.uk/2022-results/scotland-s-census-2022-rounded-population-estimates/#section5)
+
+```{r, echo=FALSE}
+# 
+plots[["POPULATION_map"]]
+
+```
+
+Requires some geography files in [*geojson* format](https://github.com/martinjc/UK-GeoJSON/tree/master)
+
+## [Two Chart Types with Flipped Axis](https://www.scotlandscensus.gov.uk/2022-results/scotland-s-census-2022-rounded-population-estimates/#section4)
+
+```{r, echo=FALSE}
+# 
+plots[["pop_pyr_1921"]]
+
+```
+
+Horizontal axis is positive in both directions.
+
+# What's next?
+
+What other Highcharts features are we learning to use?
+
+## Sonification
+
+Sonification doesn't work inside this slideshow but does in standalone HTML knitted from R markdown.
+
+[SONIFICATION DEMO]("../2023-12-06/Highcharts/sonification_demo.html")
+
+# Pros and Cons
+
+## Pros
+
+-   Powerful for web based content.
+
+-   Interactive by default.
+
+-   Easy to get started.
+
+-   Accessibility features.
+
+-   Charts resize well.
+
+-   Looks professional.
+
+## Cons 
+
+-   Paid license for publishing.
+
+-   JavaScript.
+
+-   Endless options.
+
+-   Adding sonification isn't straightforward.
+
+-   Hard to master.
+
+# Alternatives
+
+## ggplot + wrappers
+
+### ggplotly / ggigraph
+
+### Pros
+
+builds off ggplot, easy to add on to existing code. FREE!
+
+### Cons
+
+Not so flexible, ggigraph isn't popular, small feature set for interactivity.
+
+# How do I get started?
+
+## Resources
+
+Start with the...
+
+Good [documentation](https://www.highcharts.com/docs/index), [resources](https://jkunst.com/highcharter/) and [demos](https://dantonnoriega.github.io/ultinomics.org/posts/2017-04-05-highcharter-explainer.html).
+
+Further reading in the R Users' [sharepoint docs](https://scotsconnect.sharepoint.com/:w:/r/sites/rusers-community/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7BCDF2D182-A665-4C54-BD57-E5D4F045AD29%7D&wdOrigin=TEAMS-ELECTRON.null_ns.bim&wdExp=TEAMS-CONTROL&wdhostclicktime=1700743026986&web=1)
+
+## Join the Community
+
+-   Join the [RAP Yammer group](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiIxOTI2NDMyMzU4NSJ9)
+
+-   Request to join the Teams "Highcharter Users Group - Org - NRS" [here](mailto:sam.hunter@nrscotland.gov.uk).
+
+## Reproducibility
+
+### Code for producing these slides is available on [github](https://github.com/DataScienceScotland/R-user-day-talks/tree/main/2023-12-06).
+
+### Contact me: [sam.hunter@nrscotland.gov.uk](mailto:sam.hunter@nrscotland.gov.uk)
+
+# Any Questions?
