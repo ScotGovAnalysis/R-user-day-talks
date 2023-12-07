@@ -144,7 +144,7 @@ What other Highcharts features are we learning to use?
 
 Sonification doesn't work inside this slideshow but does in standalone HTML knitted from R markdown.
 
-[SONIFICATION DEMO](`r paste0(here::here(), "2023-12-06/Highcharts/sonification_demo.html")`)
+[SONIFICATION DEMO]("../2023-12-06/Highcharts/sonification_demo.html")
 
 # Pros and Cons
 
