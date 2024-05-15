@@ -5,11 +5,11 @@ format:
   html:
     page-layout: full
     embed-resources: true
-    theme: [default, styles.scss]
+    theme: [default, ../styles.scss]
 ---
 
 <br>
-[![](images/SG-logo.jpg){height=50 fig-alt="Scottish Government"}](https://www.gov.scot/) &emsp; [![](images/Rlogo.svg){height=50 fig-alt="R Project"}](https://www.r-project.org/)
+[![](../images/SG-logo.jpg){height=50 fig-alt="Scottish Government"}](https://www.gov.scot/) &emsp; [![](../images/Rlogo.svg){height=50 fig-alt="R Project"}](https://www.r-project.org/)
 
 <br>
 
