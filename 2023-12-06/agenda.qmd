@@ -8,6 +8,8 @@ format:
     theme: [default, ../styles.scss]
 ---
 
+[Back to home](../)
+
 <br>
 [![](../images/SG-logo.jpg){height=50 fig-alt="Scottish Government"}](https://www.gov.scot/) &emsp; [![](../images/Rlogo.svg){height=50 fig-alt="R Project"}](https://www.r-project.org/)
 
