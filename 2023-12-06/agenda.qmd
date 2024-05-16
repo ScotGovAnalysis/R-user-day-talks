@@ -1,11 +1,6 @@
 ---
 title: "Scottish Government R User Day 2023"
 subtitle: "Wednesday, 6 December 2023"
-format: 
-  html:
-    page-layout: full
-    embed-resources: true
-    theme: [default, ../styles.scss]
 ---
 
 [Back to home](../)

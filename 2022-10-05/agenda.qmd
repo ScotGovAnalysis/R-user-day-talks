@@ -1,11 +1,6 @@
 ---
 title: "Scottish Government R User Day 2022"
 subtitle: "Wednesday, 5 October 2022"
-format: 
-  html:
-    page-layout: full
-    embed-resources: true
-    theme: [default, ../styles.scss]
 ---
 
 [Back to home](../)
