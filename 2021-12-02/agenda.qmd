@@ -1,0 +1,47 @@
+---
+title: "Scottish Government R User Day 2021"
+subtitle: "Thursday, 2 December 2021"
+format: 
+  html:
+    page-layout: full
+    embed-resources: true
+    theme: [default, ../styles.scss]
+---
+
+[Back to home](../)
+
+<br>
+[![](../images/SG-logo.jpg){height=50 fig-alt="Scottish Government"}](https://www.gov.scot/) &emsp; [![](../images/Rlogo.svg){height=50 fig-alt="R Project"}](https://www.r-project.org/)
+
+<br>
+
+
+## Presentations
+
+### Reproducible Analytical Pipelines
+
+Speaker: Emma Wood, Scottish Government
+
+[Slides](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2021-12-02/slides/RAPs%20introduction.pptx){.download}
+
+### RAPs in the census
+
+### Making the publication treadmill more fun by using R: accessible spreadsheets with the openXLSX package
+
+Speaker: Maike Waldemann, Scottish Government
+
+[GitHub repository](https://github.com/scotgovanalysis/openxlsx_intro){.external target="_blank"}
+
+### Automating a COVID-19 dashboard
+
+Speaker: Improvement Service
+
+[Slides](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2021-12-02/slides/COVID-19%20Dashboard.pptx){.download}
+
+### Analytical workbench
+
+### R Journey
+
+### An introduction to Git version control
+
+[Slides](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2021-12-02/slides/Git%20version%20control%20tutorial.pptx){.download}

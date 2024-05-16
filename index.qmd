@@ -1,0 +1,25 @@
+---
+title: "Scottish Government R User Days"
+format: 
+  html:
+    page-layout: full
+    embed-resources: true
+    theme: [default, styles.scss]
+---
+
+<br>
+[![](images/SG-logo.jpg){height=50 fig-alt="Scottish Government"}](https://www.gov.scot/) &emsp; [![](images/Rlogo.svg){height=50 fig-alt="R Project"}](https://www.r-project.org/)
+
+
+## Upcoming events
+
+Details of the next R User Day will be added here in due course.
+
+## Past events
+
+* [December 2023](./2023-12-06/agenda.html)
+
+* [October 2022](./2022-10-05/agenda.html)
+
+* [December 2021](./2021-12-02/agenda.html)
+

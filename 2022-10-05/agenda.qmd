@@ -1,0 +1,69 @@
+---
+title: "Scottish Government R User Day 2022"
+subtitle: "Wednesday, 5 October 2022"
+format: 
+  html:
+    page-layout: full
+    embed-resources: true
+    theme: [default, ../styles.scss]
+---
+
+[Back to home](../)
+
+<br>
+[![](../images/SG-logo.jpg){height=50 fig-alt="Scottish Government"}](https://www.gov.scot/) &emsp; [![](../images/Rlogo.svg){height=50 fig-alt="R Project"}](https://www.r-project.org/)
+
+<br>
+
+
+## Presentations
+
+### Accessibility in plots – moving from Plotly towards Highcharts 
+
+Speaker: Rhi Batstone, Scottish Government
+
+[Slides](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2022-10-05/slides/NRS%20-%20Highcharter%20presentation%20-%20R%20User%20day.pptx){.download}
+
+### School Information Dashboards RAP Project
+
+Speaker: Laura Stott and Alice Byers, Scottish Government
+
+[Slides](https://github.com/scotgovanalysis/R-user-day-talks/blob/main/2022-10-05/slides/School%20Information%20Dashboards%20Presentation.pptx){.download}
+
+### Shiny Server announcement
+
+[Slides](https://github.com/scotgovanalysis/R-user-day-talks/blob/main/2022-10-05/slides/SPACe%20-%20Tranche%202%20-%20Analytical%20Workbench%20Project%20-%20Communications%20-%20R%20User%20Day%20R%20Shiny%20Dashboard%20Flash%20Talk.pptx){.download}
+
+### Working with contractors to develop a shiny dashboard
+
+Speaker: Iris Oren, Scottish Government
+
+[Slides](https://github.com/scotgovanalysis/R-user-day-talks/blob/main/2022-10-05/slides/Working%20with%20a%20contractor%20to%20deliver%20a%20dashboard.pptx){.download}
+
+### Good practice in developing interactive content
+
+Speaker: Peter Broad, Office for National Statistics
+
+[Slides](https://github.com/scotgovanalysis/R-user-day-talks/blob/main/2022-10-05/slides/Interactivity%20presentation%20-%20Scot%20Gov%20event%20-%20Oct%2022%20PB%20ONS.pptx){.download}
+
+### a11ytables R package
+
+Speaker: Matt Dray
+
+[Slides](https://github.com/scotgovanalysis/R-user-day-talks/blob/main/2022-10-05/slides/2022-10-05_sg-r-user-day_matt-dray.pdf){.download}
+
+### Developing a Shiny App from scratch with very little background in R
+
+Speaker: Joanne Murphy, Marine Scotland, Scottish Government
+
+[Slides](https://github.com/scotgovanalysis/R-user-day-talks/blob/main/2022-10-05/slides/R%20Users%20Shiny.pptx){.download}
+
+### R Packages
+
+Speaker: Tom Wilson, Scottish Government
+
+[Slides](https://github.com/scotgovanalysis/R-user-day-talks/blob/main/2022-10-05/slides/R_packages_talk.pdf){.download}
+
+[Code](https://github.com/scotgovanalysis/R-user-day-talks/blob/main/2022-10-05/slides/create_Rpackage_example.R){.external target="_blank"}
+
+[GitHub Repository](https://github.com/tomwilsonsco/rpackage-talk){.external target="_blank"}
