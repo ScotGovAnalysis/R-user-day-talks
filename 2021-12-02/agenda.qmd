@@ -1,11 +1,6 @@
 ---
 title: "Scottish Government R User Day 2021"
 subtitle: "Thursday, 2 December 2021"
-format: 
-  html:
-    page-layout: full
-    embed-resources: true
-    theme: [default, ../styles.scss]
 ---
 
 [Back to home](../)

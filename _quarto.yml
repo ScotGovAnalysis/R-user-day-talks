@@ -1,0 +1,10 @@
+project:
+  render:
+    - "index.qmd"
+    - "*/agenda.qmd"
+    
+format: 
+  html:
+    page-layout: full
+    embed-resources: true
+    theme: [default, styles.scss]
