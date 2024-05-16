@@ -10,6 +10,7 @@ title: "Scottish Government R User Days"
 
 Details of the next R User Day will be added here in due course.
 
+
 ## Past events
 
 * [December 2023](./2023-12-06/agenda.html)
@@ -18,3 +19,7 @@ Details of the next R User Day will be added here in due course.
 
 * [December 2021](./2021-12-02/agenda.html)
 
+
+## GitHub Repository
+
+The code used to produce this site is available on [GitHub](https://github.com/ScotGovAnalysis/R-user-day-talks).
