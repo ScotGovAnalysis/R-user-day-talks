@@ -14,6 +14,4 @@ To add content for a new event:
 	
 3. Copy the `agenda.qmd` file from the previous R user day to the new event folder and update dates and content as required.
 
-4. Add a new extry to `index.qmd` to link to the agenda for the new event.
-
-5. Remember to render any new or updated `qmd` files before pushing to GitHub as the `html` files are what appear on the GitHub pages site.
+4. Add a new entry to `index.qmd` to link to the agenda for the new event.
