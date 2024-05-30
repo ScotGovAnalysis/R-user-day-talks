@@ -1,0 +1,109 @@
+---
+title: "Scottish Government R User Day"
+subtitle: "Tuesday 18 June 2024"
+---
+
+[Back to home](../)
+
+<br>
+[![](../images/SG-logo.jpg){height=50 fig-alt="Scottish Government"}](https://www.gov.scot/) &emsp; [![](../images/Rlogo.svg){height=50 fig-alt="R Project"}](https://www.r-project.org/)
+
+<br>
+
+The R User Day will take place on Tuesday 18 June 2024. The event will be online only and is open to public sector analysts.
+
+To attend the event, please sign up using the [registration form](https://events.teams.microsoft.com/event/18cb43be-0536-47f5-95ba-9646f4b55342@0ef77447-1083-4dec-b89f-27c765076840). Please make sure to register using your work email address. 
+
+We intend to record talks with a view to making them available on Pathways so that they are available for future use. Participants should read the following privacy notice before attending the event (click the blue banner to expand).
+
+::: {.callout-note collapse="true"}
+## Recording Privacy Notice
+
+By joining the online event, the participant agrees to the following terms and conditions:
+
+* The event is being run by the Office of the Chief Statistician and Data Division in the Scottish Government. The event will highlight good practice and promote the use of R open source software with analysts in the Scottish Government and the Scottish public sector.
+
+* The presentation part of this event will be recorded so that those who cannot attend it live, can watch it later or attendees can revisit. The recording will be stopped before the Q&A session at the end of each presentation takes place. The presenter will inform attendees once the recording has stopped.
+
+* The recording will be held securely by the Office of Chief Statistician and Data Division and is processed under the lawful basis – legitimate interest. These will be excellent reference materials for analysts who would like to refer back to the content of the talks and the recordings will also be of use to those who were unable to attend the events. **If you do not wish to be recorded during the presentation, we recommend that your camera and microphone are switched off.**
+
+* Once the recording has stopped, the event will open to questions where participants can freely ask questions via discussion or within the chat function. This part of the event will not be recorded.
+
+* We intend to host the recordings on Pathways and may share it with other public sector organisations.
+
+* We will retain the recordings for 5 years. These recordings will be of great interest to  analysts in the Scottish Government for the foreseeable future.
+
+* If you have any concerns about the information within this privacy notice, please contact [Gerry Scullion](mailto:gerard.scullion@gov.scot).
+:::
+
+Presentation slides and materials are available in the [presentations section](#presentations) of this page.
+
+Please [email the organisers](mailto:Fergus.Christie@gov.scot;Gerard.Scullion@gov.scot;Calli.Dougall@gov.scot;anouska.pandya@gov.scot?subject=R%20User%20Day) if you have any questions or have any accessibility requirements.
+
+
+## Agenda
+
+| Time | Title | Speaker |
+| -- | ---- | --- |
+| 10:00 – 10:10 | Opening remarks | |
+| 10:10 – 10:20 | Introduction | Paul Matthews, OCS |
+| 10:20 – 11:00 | Process Mapping | Gwen Nicholson |
+| 11:00 – 11:30 | Black Box thinking applied to programming language transitions | Sam Hunter |
+| 11:30 – 11:45 | Break | |
+| 11:45 – 12:05 | R guidance and support |  |
+| 12:05 – 12:35 | A data validation infrastructure for R | Joe Adams |
+| 12:35 – 13:30 | Lunch | |
+| 13:30 – 14:00 | Building a RAP for survey sampling | Emma Schweidler |
+| 14:00 – 15:30 | Workshop: SAS to R | Sam Hunter |
+| 15:30 – 15:45 | Closing remarks | |
+
+
+## Presentations
+
+### Process Mapping
+
+Speaker: Gwen Nicholson, Head of People Development and Corporate Governance, DG Health & Social Care, Scottish Government
+
+*Talk summary*
+
+*slides*
+
+### Black Box thinking applied to programming language transitions
+
+Speaker: Sam Hunter, National Records of Scotland
+
+Re-writing a process from one language to another without understanding how the original works 
+
+*slides*
+
+### R guidance and support
+
+Speaker: TBC
+
+*Where to go for R guidance and support?*
+
+*slides*
+
+### A data validation infrastructure for R
+
+Speakers: Joe Adams, Scottish Government
+
+The validate R package: benefits, drawbacks, and a real-world implementation
+
+*slides*
+
+### Building a RAP for survey sampling
+
+Speaker: Emma Schweidler, Scottish Government
+
+How we moved our code from SAS to R and 'RAPified' the sampling of the centralised surveys. 
+
+*slides*
+
+### Workshop: SAS to R
+
+Speaker: Sam Hunter, National Records of Scotland
+
+*Description of workshop*
+
+

@@ -8,7 +8,7 @@ title: "Scottish Government R User Days"
 
 ## Upcoming events
 
-Details of the next R User Day will be added here in due course.
+* [18 June 2024](./2024-06-18/agenda.html)
 
 
 ## Past events
