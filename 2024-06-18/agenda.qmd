@@ -47,7 +47,7 @@ Please [email the organisers](mailto:Fergus.Christie@gov.scot;Gerard.Scullion@go
 | -- | ---- | --- |
 | 10:00 – 10:10 | Opening remarks | |
 | 10:10 – 10:20 | Introduction | Paul Matthews |
-| 10:20 – 11:00 | Process Mapping | Gwen Nicholson |
+| 10:20 – 11:00 | All Mapped Out: Introduction to process and value stream mapping | Gwen Nicholson |
 | 11:00 – 11:30 | Black Box thinking applied to programming language transitions | Sam Hunter |
 | 11:30 – 11:45 | Break | |
 | 11:45 – 12:05 | R guidance and support |  |
@@ -60,7 +60,7 @@ Please [email the organisers](mailto:Fergus.Christie@gov.scot;Gerard.Scullion@go
 
 ## Presentations
 
-### Process Mapping
+### All Mapped Out: Introduction to process and value stream mapping
 
 Speaker: Gwen Nicholson, Head of People Development and Corporate Governance, DG Health & Social Care, Scottish Government
 
