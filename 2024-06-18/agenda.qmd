@@ -10,11 +10,11 @@ subtitle: "Tuesday 18 June 2024"
 
 <br>
 
-The R User Day will take place on Tuesday 18 June 2024. The event will be online only and is open to public sector analysts.
+The R User Day will take place on Tuesday 18 June 2024. The event will be online only and is open to public sector analysts. The theme of the event is "moving from SAS to R".
 
 To attend the event, please sign up using the [registration form](https://events.teams.microsoft.com/event/18cb43be-0536-47f5-95ba-9646f4b55342@0ef77447-1083-4dec-b89f-27c765076840). Please make sure to register using your work email address. 
 
-We intend to record talks with a view to making them available on Pathways so that they are available for future use. Participants should read the following privacy notice before attending the event (click the blue banner to expand).
+We intend to record talks with a view to making them available on Pathways so that they are available for future use. Participants should read the following privacy notice before attending the event (click the blue banner to expand). 
 
 ::: {.callout-note collapse="true"}
 ## Recording Privacy Notice
@@ -36,7 +36,7 @@ By joining the online event, the participant agrees to the following terms and c
 * If you have any concerns about the information within this privacy notice, please contact [Gerry Scullion](mailto:gerard.scullion@gov.scot).
 :::
 
-Presentation slides and materials are available in the [presentations section](#presentations) of this page.
+Presentation slides and materials will be made available in the [presentations section](#presentations) of this page in due course.
 
 Please [email the organisers](mailto:Fergus.Christie@gov.scot;Gerard.Scullion@gov.scot;Calli.Dougall@gov.scot;anouska.pandya@gov.scot?subject=R%20User%20Day) if you have any questions or have any accessibility requirements.
 
@@ -46,7 +46,7 @@ Please [email the organisers](mailto:Fergus.Christie@gov.scot;Gerard.Scullion@go
 | Time | Title | Speaker |
 | -- | ---- | --- |
 | 10:00 – 10:10 | Opening remarks | |
-| 10:10 – 10:20 | Introduction | Paul Matthews, OCS |
+| 10:10 – 10:20 | Introduction | Paul Matthews |
 | 10:20 – 11:00 | Process Mapping | Gwen Nicholson |
 | 11:00 – 11:30 | Black Box thinking applied to programming language transitions | Sam Hunter |
 | 11:30 – 11:45 | Break | |
@@ -64,9 +64,8 @@ Please [email the organisers](mailto:Fergus.Christie@gov.scot;Gerard.Scullion@go
 
 Speaker: Gwen Nicholson, Head of People Development and Corporate Governance, DG Health & Social Care, Scottish Government
 
-*Talk summary*
+How to use ‘process mapping’ as an improvement tool and the concept of value stream mapping. 
 
-*slides*
 
 ### Black Box thinking applied to programming language transitions
 
@@ -74,15 +73,13 @@ Speaker: Sam Hunter, National Records of Scotland
 
 Re-writing a process from one language to another without understanding how the original works 
 
-*slides*
 
 ### R guidance and support
 
 Speaker: TBC
 
-*Where to go for R guidance and support?*
+Where to find helpful R guidance and information on the R Buddy Scheme. 
 
-*slides*
 
 ### A data validation infrastructure for R
 
@@ -90,7 +87,6 @@ Speakers: Joe Adams, Scottish Government
 
 The validate R package: benefits, drawbacks, and a real-world implementation
 
-*slides*
 
 ### Building a RAP for survey sampling
 
@@ -98,12 +94,11 @@ Speaker: Emma Schweidler, Scottish Government
 
 How we moved our code from SAS to R and 'RAPified' the sampling of the centralised surveys. 
 
-*slides*
 
 ### Workshop: SAS to R
 
 Speaker: Sam Hunter, National Records of Scotland
 
-*Description of workshop*
+Join this code-along workshop where Sam will demonstrate how to rewrite SAS processes in R. 
 
 
