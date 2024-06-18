@@ -36,7 +36,7 @@ By joining the online event, the participant agrees to the following terms and c
 * If you have any concerns about the information within this privacy notice, please contact [Gerry Scullion](mailto:gerard.scullion@gov.scot).
 :::
 
-Presentation slides and materials will be made available in the [presentations section](#presentations) of this page in due course.
+Presentation slides and materials are available in the [presentations section](#presentations) of this page.
 
 Please [email the organisers](mailto:Fergus.Christie@gov.scot;Gerard.Scullion@gov.scot;Calli.Dougall@gov.scot;anouska.pandya@gov.scot?subject=R%20User%20Day) if you have any questions or have any accessibility requirements.
 
@@ -50,11 +50,11 @@ Please [email the organisers](mailto:Fergus.Christie@gov.scot;Gerard.Scullion@go
 | 10:20 – 11:00 | All Mapped Out: Introduction to process and value stream mapping | Gwen Nicholson |
 | 11:00 – 11:30 | Black Box thinking applied to programming language transitions | Sam Hunter |
 | 11:30 – 11:45 | Break | |
-| 11:45 – 12:05 | R guidance and support |  |
+| 11:45 – 12:05 | R guidance and support | Anouska Pandya and Karren Friel |
 | 12:05 – 12:35 | A data validation infrastructure for R | Joe Adams |
 | 12:35 – 13:30 | Lunch | |
 | 13:30 – 14:00 | Building a RAP for survey sampling | Emma Schweidler |
-| 14:00 – 15:30 | Workshop: SAS to R | Sam Hunter |
+| 14:00 – 15:30 | Workshop: developing R code to rebuild a SAS process | Sam Hunter |
 | 15:30 – 15:45 | Closing remarks | |
 
 
@@ -66,17 +66,21 @@ Speaker: Gwen Nicholson, Head of People Development and Corporate Governance, DG
 
 How to use ‘process mapping’ as an improvement tool and the concept of value stream mapping. 
 
+[Slides](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2024-06-18/slides/gwen-nicholson-process-mapping.pptx){.download}
+
 
 ### Black Box thinking applied to programming language transitions
 
 Speaker: Sam Hunter, National Records of Scotland
 
-Re-writing a process from one language to another without understanding how the original works 
+Re-writing a process from one language to another without understanding how the original works. Sam will follow on with a practical example in the afternoon's workshop.
+
+[Slides](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2024-06-18/slides/sam-hunter-black-box-theory.pptx){.download}
 
 
 ### R guidance and support
 
-Speaker: TBC
+Speaker: Anouska Pandya and Karren Friel
 
 Where to find helpful R guidance and information on the R Buddy Scheme. 
 
@@ -87,6 +91,10 @@ Speakers: Joe Adams, Scottish Government
 
 The validate R package: benefits, drawbacks, and a real-world implementation
 
+[Slides](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2024-06-18/slides/joe-adams-data-validation-infrastructure.pptx){.download}
+
+[Data and R code](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2024-06-18/slides/joe-adams-data-validation-infrastructure-demonstration-files.zip){.download}
+
 
 ### Building a RAP for survey sampling
 
@@ -94,11 +102,17 @@ Speaker: Emma Schweidler, Scottish Government
 
 How we moved our code from SAS to R and 'RAPified' the sampling of the centralised surveys. 
 
+[Slides](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2024-06-18/slides/emma-schweidler-RAP-for-survey-sampling.pptx){.download}
 
-### Workshop: SAS to R
+
+### Workshop: developing R code to rebuild a SAS process
 
 Speaker: Sam Hunter, National Records of Scotland
 
-Join this code-along workshop where Sam will demonstrate how to rewrite SAS processes in R. 
+Join this code-along workshop where Sam will demonstrate how to build a process in R. 
+
+[Brief](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2024-06-18/slides/workshop-brief.html){.download}
+
+[SAS process](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2024-06-18/slides/workshop-SAS-process.html){.download}
 
 
