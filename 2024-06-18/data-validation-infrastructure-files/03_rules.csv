@@ -1,0 +1,10 @@
+﻿name,description,rule
+column_names_as_expected,Column names are as expected.,"names(.) == c(""id"", ""Cause of death"", ""Year"", ""SIMD 1"", ""SIMD 5"", ""Ratio of mortality rates"")"
+expected_data_type_character,Character columns are of type character (i.e. text).,is.character(`Cause of death`)
+is_unique,This column has unique values.,is_unique(this_column_does_not_exist)
+is_complete,The id column is complete.,is_complete(`Cause of death`)
+simd1_gt_simd5,SIMD 1 is greater than SIMD 5,`SIMD 1` > `SIMD 5`
+ratio,The ratio of mortality rates is equal to SIMD 1 divided by SIMD 5,`Ratio of mortality rates` == `SIMD 1` / `SIMD 5`
+cc_data_large_3,"If forecast expenditure is greater than zero, forecast expenditure is greater than or equal to contractually committed costs.","if (`Cause of death` == ""Alcohol-specific"") in_range(`Ratio of mortality rates`, min=4, max=9)"
+inflation_data_large_2_4,"If allocated funding is greater than £50 million, the total forecast expenditure grows each year.",sum(`SIMD 1`) > sum(`SIMD 5`)
+is_expected_year,The Year column only contains expected values.,"Year %in% code_list[[""Year""]]"
