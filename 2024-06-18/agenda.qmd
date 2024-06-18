@@ -80,20 +80,20 @@ Re-writing a process from one language to another without understanding how the 
 
 ### R guidance and support
 
-Speaker: Anouska Pandya and Karren Friel
+Speakers: Anouska Pandya and Karren Friel
 
 Where to find helpful R guidance and information on the R Buddy Scheme. 
 
 
 ### A data validation infrastructure for R
 
-Speakers: Joe Adams, Scottish Government
+Speaker: Joe Adams, Scottish Government
 
 The validate R package: benefits, drawbacks, and a real-world implementation
 
 [Slides](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2024-06-18/slides/joe-adams-data-validation-infrastructure.pptx){.download}
 
-[Data and R code](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2024-06-18/slides/joe-adams-data-validation-infrastructure-demonstration-files.zip){.download}
+[Data and R code](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2024-06-18/slides/joe-adams-data-validation-infrastructure-demonstration-files){.external target="_blank"}
 
 
 ### Building a RAP for survey sampling
@@ -111,8 +111,8 @@ Speaker: Sam Hunter, National Records of Scotland
 
 Join this code-along workshop where Sam will demonstrate how to build a process in R. 
 
-[Brief](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2024-06-18/slides/workshop-brief.html){.download}
+[Brief](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2024-06-18/slides/workshop-brief){.external target="_blank"}
 
-[SAS process](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2024-06-18/slides/workshop-SAS-process.html){.download}
+[SAS process](https://github.com/scotgovanalysis/R-user-day-talks/raw/main/2024-06-18/slides/workshop-SAS-process){.external target="_blank"}
 
 
