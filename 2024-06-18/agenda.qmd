@@ -48,12 +48,12 @@ Please [email the organisers](mailto:Fergus.Christie@gov.scot;Gerard.Scullion@go
 | 10:00 – 10:10 | Opening remarks | |
 | 10:10 – 10:20 | Introduction | Paul Matthews |
 | 10:20 – 11:00 | All Mapped Out: Introduction to process and value stream mapping | Gwen Nicholson |
-| 11:00 – 11:30 | Black Box thinking applied to programming language transitions | Sam Hunter |
+| 11:00 – 11:30 | A data validation infrastructure for R | Joe Adams |
 | 11:30 – 11:45 | Break | |
 | 11:45 – 12:05 | R guidance and support | Anouska Pandya and Karren Friel |
-| 12:05 – 12:35 | A data validation infrastructure for R | Joe Adams |
+| 12:05 – 12:35 | Building a RAP for survey sampling | Emma Schweidler |
 | 12:35 – 13:30 | Lunch | |
-| 13:30 – 14:00 | Building a RAP for survey sampling | Emma Schweidler |
+| 13:30 – 14:00 | Black Box thinking applied to programming language transitions | Sam Hunter |
 | 14:00 – 15:30 | Workshop: developing R code to rebuild a SAS process | Sam Hunter |
 | 15:30 – 15:45 | Closing remarks | |
 
